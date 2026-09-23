@@ -1,3 +1,5 @@
+﻿# web-technology-practicals
+
 # HTML, CSS & JavaScript Practical Programs
 
 Student Name: sayyad neeha
@@ -38,7 +40,6 @@ Some items in the supplied assignment list repeat the same concepts. Repeated co
 
 ## Notes
 Some API/media demonstrations use public browser-accessible resources and therefore require an internet connection. The remaining demonstrations run locally in the browser.
-
 
 ### Theme
 This version uses a sea/ocean theme with animated water effects, bubbles, floating task cards, and ocean-style colors.
